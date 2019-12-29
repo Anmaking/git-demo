@@ -8,8 +8,7 @@ public class HelloController {
 
     @RequestMapping("/hello")
     public String hello() {
-
-        return  "hello git 开发人员";
+        return  "hello git 羡慕经理";
     }
 
     //我是开发人员，我编写了
